@@ -1,3 +1,5 @@
-export default function HomePage() {
+import homeStyles from '../styles/home.module.css';
+
+export default function Home() {
     return <h1>Hello Next App</h1>;
 }
